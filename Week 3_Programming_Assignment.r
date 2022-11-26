@@ -28,3 +28,4 @@ cache_Solve <- function(x, ...) {
   x$setsolve(s)
   s
 }
+# now adding SSHA
